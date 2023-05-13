@@ -1,0 +1,19 @@
+#toolkit {
+  position: fixed;
+  top: 200px;
+  right: 150px;
+  display: flex;
+  flex-direction: column;
+
+  width: 250px;
+}
+
+#toolkit input {
+  margin-bottom: 10px;
+}
+
+.flexCard {
+    display: flex;
+    flex-wrap: wrap;
+}
+
